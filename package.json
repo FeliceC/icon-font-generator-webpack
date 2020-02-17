@@ -1,0 +1,8 @@
+{
+  "name": "icon-font-generator-webpack",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:FeliceC/icon-font-generator-webpack.git",
+  "author": "Felice Caricati <felice.caricati@gmail.com>",
+  "license": "MIT"
+}
